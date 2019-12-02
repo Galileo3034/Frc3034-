@@ -15,7 +15,7 @@ import edu.wpi.first.wpilibj.command.Subsystem;
 public class elikodSub extends Subsystem {
   // Put methods for controlling this subsystem
   // here. Call these from Commands.
-  WPI
+// i hate git hub
   @Override
   public void initDefaultCommand() {
     // Set the default command for a subsystem here.
